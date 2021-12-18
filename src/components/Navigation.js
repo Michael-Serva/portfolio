@@ -17,25 +17,25 @@ const Navigation = () => {
       <div className="navigation">
         <ul>
           <li>
-            {" "}
+            
             <NavLink exact to="/" activeClassName="navActive">
               <i className="fas fa-home"></i>
               <span>Accueil</span>
-            </NavLink>{" "}
+            </NavLink>
           </li>
           <li>
-            {" "}
+            
             <NavLink exact to="/knowledges" activeClassName="navActive">
               <i className="fas fa-laptop-code"></i>
               <span>Compétences</span>
-            </NavLink>{" "}
+            </NavLink>
           </li>
           <li>
-            {" "}
+            
             <NavLink exact to="/portfolio" activeClassName="navActive">
               <i className="fas fa-images"></i>
               <span>Portfolio</span>
-            </NavLink>{" "}
+            </NavLink>
           </li>
           <li>
             <NavLink exact to="/contact" activeClassName="navActive">

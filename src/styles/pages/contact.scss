@@ -1,4 +1,29 @@
-.contactContent {
+.contact {
+  color: $black;
+  background-color: $white;
+  .title{
+    color: $white;
+    font-family: $font-2;
+  }
+  h1{
+    color: $color-4;
+  }
+  img.imgContact{
+    border-radius: $borderRadius;
+    width: 300px;
+  }
+ .contactBox{
+   border-radius: $borderRadius;
+   background-color: $color-1;
+   width: 50em;
+   padding: 30px;
+   h1{
+     cursor: pointer;
+   }
+ }
+}
+
+ /* .contactContent {
     background: $color-3;
     border-radius: $borderRadius;
     width: 100%;
@@ -167,4 +192,5 @@
         font-size: .9rem;
       }
     }
-  }
+  } 
+ */
