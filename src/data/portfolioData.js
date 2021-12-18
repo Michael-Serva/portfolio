@@ -6,7 +6,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-php','fab fa-symfony','fab fa-bootstrap','fab fa-js'],
     source: 'https://www.maisonphilo.servgrouptn.com/',
     info: 'Un site d\'information et de vente en ligne dédié aux personnes agées en Afrique',
-    picture: './media/project1.JPG'
+    picture: './media/project1.jpg'
   },
   {
     id: 2,

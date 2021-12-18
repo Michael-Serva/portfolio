@@ -80,3 +80,12 @@ yarn add react-flash-message
 ### Deploy
 
 https://ichi.pro/fr/deployer-et-heberger-une-application-react-sur-un-serveur-apache-201288440590458
+
+add
+
+```xml
+"deploy":"yarn build&&gh-pages -d build", in scripts package json
+```
+```bash
+yarn run deploy
+````
