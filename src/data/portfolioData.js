@@ -22,7 +22,7 @@ export const portfolioData = [
     name: 'Mon Portfolio',
     languages: ['React', 'Bootstrap', 'Javascript','All'],
     languagesIcons: ['fab fa-react','fab fa-bootstrap','fab fa-js'],
-    source: 'http://www.servgrouptn.com',
+    source: 'http://www.portfolio/servgrouptn.com',
     info: 'Premier site crée en React, je souhaite étendre mon champ de compétences et apprendre les langages frontend',
     picture: './media/project3.JPG'
   },
