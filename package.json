@@ -1,5 +1,6 @@
 {
   "name": "mon-portfolio",
+  "homepage": "http://portfolio.servgrouptn.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
