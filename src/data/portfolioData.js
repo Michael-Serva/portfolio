@@ -15,7 +15,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-bootstrap','fab fa-js'],
     source: 'https://chambord.michael-serva.fr/index.html',
     info: 'Site fictif de réservation pour un grand hôtel parisien',
-    picture: './media/project2.JPG'
+    picture: './media/project2.jpg'
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-react','fab fa-bootstrap','fab fa-js'],
     source: 'http://www.portfolio.servgrouptn.com',
     info: 'Premier site crée en React, je souhaite étendre mon champ de compétences et apprendre les langages frontend',
-    picture: './media/project3.JPG'
+    picture: './media/project3.jpg'
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-php','fab fa-bootstrap'],
     source: 'https://ermont.michael-serva.fr/',
     info: 'Petit site très simple crée en quelques minutes pour mon club de foot. Mes coéquipiers souhaitaient connaitre le classement des buteurs et des passeurs de notre effectif',
-    picture: './media/project4.JPG'
+    picture: './media/project4.jpg'
   },
 ]
 
