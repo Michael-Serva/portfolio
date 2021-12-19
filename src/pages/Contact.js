@@ -37,8 +37,9 @@ class Contact extends Component {
             </div>
           </div>
           <div className="d-flex justify-content-center">
+
             <img
-              src="./media/mikedev2.png"
+              src={"./media/mikedev2.png"}
               alt="mikedev"
               className="imgContact"
             />
